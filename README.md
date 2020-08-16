@@ -50,7 +50,7 @@ scoop bucket add java
 Checking repo... ok
 The java bucket was added successfully.
 ```
-インストールが成功した。
+バケットの追加が成功した。
 
 ## OpenJDK のインストール
 準備が整ったので、次のコマンドで Java をインストールする。
